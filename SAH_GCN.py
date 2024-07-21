@@ -22,28 +22,6 @@ def get_cuda(tensor):
 
 
 class RelGraphConvLayer(nn.Module):
-    r"""Relational graph convolution layer.
-    Parameters
-    ----------
-    in_feat : int
-        Input feature size.
-    out_feat : int
-        Output feature size.
-    rel_names : list[str]
-        Relation names.
-    num_bases : int, optional
-        Number of bases. If is none, use number of relations. Default: None.
-    weight : bool, optional
-        True if a linear layer is applied after message passing. Default: True
-    bias : bool, optional
-        True if bias is added. Default: True
-    activation : callable, optional
-        Activation function. Default: None
-    self_loop : bool, optional
-        True to include self loop message. Default: False
-    dropout : float, optional
-        Dropout rate. Default: 0.0
-    """
 
     def __init__(self,
                  in_feat,
@@ -170,20 +148,7 @@ class SupConLoss(nn.Module):
             mask = torch.eq(labels, labels.T).float().to(device)
         else:
             mask = mask.float().to(device)
-        '''
-        示例: 
-        labels: 
-            tensor([[1.],
-                    [2.],
-                    [1.],
-                    [1.]])
-        mask:  # 两个样本i,j的label相等时，mask_{i,j}=1
-            tensor([[1., 0., 1., 1.],
-                    [0., 1., 0., 0.],
-                    [1., 0., 1., 1.],
-                    [1., 0., 1., 1.]]) 
-        '''
-        # compute logits
+   
         anchor_dot_contrast = torch.div(
             torch.matmul(features, features.T),
             self.temperature) 
