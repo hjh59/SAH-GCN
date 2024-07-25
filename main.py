@@ -22,7 +22,7 @@ from models.optimization import BertAdam
 from sklearn.metrics import classification_report
 from sklearn.metrics import accuracy_score, f1_score
 
-from data_SAH_GCN import TUCOREGCNDataset, TUCOREGCNDataloader
+from models.data_SAH_GCN import TUCOREGCNDataset, TUCOREGCNDataloader
 
 
 def calc_test_result(logits_all, labels_all, threshold=None, type=type):
