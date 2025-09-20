@@ -1,9 +1,7 @@
 
 # [SAH-GCN](https://github.com/hjh59/SAH-GCN)
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-red.svg)](https://www.python.org/) 
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.ipm.2024.103931-blue.svg)](https://doi.org/10.1016/j.ipm.2024.103931)
 ![GitHub repo size](https://img.shields.io/github/repo-size/hjh59/SAH-GCN) 
-[![Dateset](https://img.shields.io/badge/arXiv-2205.14727-b31b1b.svg)](https://arxiv.org/abs/2205.14727)
 
 
 ## 🚀 Introduction
