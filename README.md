@@ -1,7 +1,6 @@
 
 # [SAH-GCN](https://github.com/hjh59/SAH-GCN)
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.ipm.2024.103931-blue.svg)](https://doi.org/10.1016/j.ipm.2024.103931)
-![GitHub repo size](https://img.shields.io/github/repo-size/hjh59/SAH-GCN) 
 
 
 ## 🚀 Introduction
