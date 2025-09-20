@@ -22,7 +22,7 @@ datasets/
   ├── CPED/    # place dataset here
 ```
 
-## ⚙Model
+## Model
 Our method relies on pretrained language model (BERT).
 You can download them directly from Hugging Face:
 
