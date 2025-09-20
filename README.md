@@ -31,7 +31,7 @@ models/
   ├── BERT/    # place model here
 ```
 
-Official implementation of the paper:  
+## Correspongding paper:  
 **Heuristic personality recognition based on fusing multiple conversations and utterance-level affection**  
 *Haijun He, Bobo Li, Yiyun Xiong, Li Zheng, Kang He, Fei Li, Donghong Ji*  
 Published in *Information Processing & Management*, 2025.
