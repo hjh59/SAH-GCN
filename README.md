@@ -1,5 +1,4 @@
-# Heuristic Personality Recognition
-
+# SAH-GCN
 Official implementation of the paper:  
 **Heuristic personality recognition based on fusing multiple conversations and utterance-level affection**  
 *Haijun He, Bobo Li, Yiyun Xiong, Li Zheng, Kang He, Fei Li, Donghong Ji*  
@@ -16,18 +15,29 @@ We propose a **heuristic personality recognition framework** that:
 - Achieves competitive results on benchmark datasets.  
 
 ---
+## 📂 Dataset
+We use the CPED dataset. Please download it from the official repository:
+🔗 https://github.com/scutcyr/CPED
+After downloading, place the dataset in the following structure:
 
-## ⚙️ Environment Setup
+```arduino
+datasets/
+  ├── CPED/    # place dataset here
+```
 
-We recommend using **Python ≥ 3.9** and **PyTorch ≥ 1.12**.  
+## Pretrained Model
+Our method relies on pretrained language models (e.g., BERT).
+You can download them directly from Hugging Face:
+🔗 https://huggingface.co/models
+After downloading, place the mdoel in the following structure:
+
+
+```arduino
+models/
+  ├── BERT/    # place model here
+```
+
 
 ```bash
-git clone https://github.com/<your-repo>/heuristic-personality-recognition.git
-cd heuristic-personality-recognition
-
-# Create environment
-conda create -n hpr python=3.9
-conda activate hpr
-
-# Install dependencies
-pip install -r requirements.txt
+git clone https://github.com/hjh59/SAH-GCN.git
+```
