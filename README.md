@@ -17,7 +17,9 @@ We propose a **heuristic personality recognition framework** that:
 ---
 ## 📂 Dataset
 We use the CPED dataset. Please download it from the official repository:
+
 🔗 https://github.com/scutcyr/CPED
+
 After downloading, place the dataset in the following structure:
 
 ```arduino
@@ -28,7 +30,9 @@ datasets/
 ## ⚙️ Pretrained Model
 Our method relies on pretrained language models (e.g., BERT).
 You can download them directly from Hugging Face:
+
 🔗 https://huggingface.co/models
+
 After downloading, place the mdoel in the following structure:
 
 
