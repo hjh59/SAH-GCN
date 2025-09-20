@@ -14,10 +14,7 @@ We propose a **heuristic personality recognition framework** that:
 
 ---
 ## 📂 Dataset
-We use the CPED dataset. Please download it from the official repository:
-
-🔗 https://github.com/scutcyr/CPED
-
+We use the CPED dataset. Please download it from the paper: [![arxiv](https://img.shields.io/badge/arXiv-2205.14727-b31b1b.svg)](https://arxiv.org/abs/2205.14727)
 After downloading, place the dataset in the following structure:
 ```bash
 datasets/
