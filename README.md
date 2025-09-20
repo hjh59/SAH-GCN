@@ -25,7 +25,7 @@ datasets/
   ├── CPED/    # place dataset here
 ```
 
-## Pretrained Model
+## ⚙️ Pretrained Model
 Our method relies on pretrained language models (e.g., BERT).
 You can download them directly from Hugging Face:
 🔗 https://huggingface.co/models
@@ -35,9 +35,4 @@ After downloading, place the mdoel in the following structure:
 ```arduino
 models/
   ├── BERT/    # place model here
-```
-
-
-```bash
-git clone https://github.com/hjh59/SAH-GCN.git
 ```
