@@ -24,13 +24,13 @@ You can download them directly from Hugging Face:
 
 🔗 https://huggingface.co/models
 
-After downloading, place the mdoel in the following structure:
+After downloading, place the model in the following structure:
 ```bash
 pretrained_model/
   ├── BERT/    # place model here
 ```
 
-## Correspongding paper:  
+## Corresponding paper:  
 **Heuristic personality recognition based on fusing multiple conversations and utterance-level affection**  
 *Haijun He, Bobo Li, Yiyun Xiong, Li Zheng, Kang He, Fei Li, Donghong Ji*  
 Published in *Information Processing & Management*, 2025.
