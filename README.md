@@ -22,8 +22,8 @@ datasets/
   ├── CPED/    # place dataset here
 ```
 
-## ⚙️ Pretrained Model
-Our method relies on pretrained language models (e.g., BERT).
+## ⚙️ Model
+Our method relies on pretrained language model (BERT).
 You can download them directly from Hugging Face:
 
 🔗 https://huggingface.co/models
