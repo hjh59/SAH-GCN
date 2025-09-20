@@ -3,7 +3,7 @@
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.ipm.2024.103931-blue.svg)](https://doi.org/10.1016/j.ipm.2024.103931)
 
 
-## 🚀 Introduction
+## Introduction
 This repository provides the source code for our paper.  
 We propose a **heuristic personality recognition framework** that:  
 - Fuses multiple conversations to capture more abundant interaction signals.  
@@ -11,7 +11,7 @@ We propose a **heuristic personality recognition framework** that:
 - Achieves competitive results on benchmark datasets.  
 
 ---
-## 📂 Dataset
+## Dataset
 We use the CPED dataset. Please download it from the official repository:  
 
 🔗 https://github.com/scutcyr/CPED
@@ -22,7 +22,7 @@ datasets/
   ├── CPED/    # place dataset here
 ```
 
-## ⚙️ Model
+## ⚙Model
 Our method relies on pretrained language model (BERT).
 You can download them directly from Hugging Face:
 
