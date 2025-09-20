@@ -27,7 +27,7 @@ You can download them directly from Hugging Face:
 
 After downloading, place the mdoel in the following structure:
 ```arduino
-models/
+pretrained_model/
   ├── BERT/    # place model here
 ```
 
