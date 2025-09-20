@@ -1,10 +1,9 @@
 # SAH-GCN
 ## 🚀 Introduction
-
 This repository provides the source code for our paper.  
 We propose a **heuristic personality recognition framework** that:  
-- Fuses **multiple conversations** to capture long-term interaction signals.  
-- Incorporates **utterance-level affection** to model fine-grained affective cues.  
+- Fuses multiple conversations to capture more abundant interaction signals.  
+- Incorporates utterance-level affection to model fine-grained affective cues.  
 - Achieves competitive results on benchmark datasets.  
 
 ---
@@ -14,7 +13,7 @@ We use the CPED dataset. Please download it from the official repository:
 🔗 https://github.com/scutcyr/CPED
 
 After downloading, place the dataset in the following structure:
-```arduino
+```bash
 datasets/
   ├── CPED/    # place dataset here
 ```
@@ -26,7 +25,7 @@ You can download them directly from Hugging Face:
 🔗 https://huggingface.co/models
 
 After downloading, place the mdoel in the following structure:
-```arduino
+```bash
 pretrained_model/
   ├── BERT/    # place model here
 ```
@@ -44,8 +43,8 @@ Published in *Information Processing & Management*, 2025.
   number={1},
   pages={103931},
   year={2025},
-  publisher={Elsevier}
+  publisher={Elsevier},
+  doi={10.1016/j.ipm.2024.103931}
 }
-
 ```
 ---
