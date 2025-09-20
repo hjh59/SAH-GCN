@@ -1,6 +1,12 @@
 
 # [CPED](https://github.com/scutcyr/CPED)
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-red.svg)](#python) [![arxiv](https://img.shields.io/badge/arXiv-2205.14727-b31b1b.svg)](https://arxiv.org/abs/2205.14727) [![GitHub stars](https://img.shields.io/github/stars/scutcyr/CPED)](https://github.com/scutcyr/CPED/stargazers) [![GitHub license](https://img.shields.io/github/license/scutcyr/CPED)](https://github.com/scutcyr/CPED/blob/main/LICENSE) ![GitHub repo size](https://img.shields.io/github/repo-size/scutcyr/CPED) [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black) ![GitHub last commit](https://img.shields.io/github/last-commit/scutcyr/CPED) 
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-red.svg)](#python) 
+[![IP&M](https://img.shields.io/badge/arXiv-2205.14727-b31b1b.svg)]([https://arxiv.org/abs/2205.14727](https://doi.org/10.1016/j.ipm.2024.103931)) 
+[![GitHub stars](https://img.shields.io/github/stars/scutcyr/CPED)](https://github.com/scutcyr/CPED/stargazers) 
+[![GitHub license](https://img.shields.io/github/license/scutcyr/CPED)](https://github.com/scutcyr/CPED/blob/main/LICENSE) 
+![GitHub repo size](https://img.shields.io/github/repo-size/scutcyr/CPED) 
+[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black) 
+![GitHub last commit](https://img.shields.io/github/last-commit/scutcyr/CPED) 
 
 # SAH-GCN
 ## 🚀 Introduction
