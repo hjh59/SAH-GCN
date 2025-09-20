@@ -2,13 +2,9 @@
 # [SAH-GCN](https://github.com/hjh59/SAH-GCN)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-red.svg)](https://www.python.org/) 
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.ipm.2024.103931-blue.svg)](https://doi.org/10.1016/j.ipm.2024.103931)
-[![GitHub stars](https://img.shields.io/github/stars/<your-username>/<your-repo>)](https://github.com/<your-username>/<your-repo>/stargazers) 
-[![GitHub license](https://img.shields.io/github/license/<your-username>/<your-repo>)](https://github.com/<your-username>/<your-repo>/blob/main/LICENSE) 
-![GitHub repo size](https://img.shields.io/github/repo-size/<your-username>/<your-repo>) 
-![GitHub last commit](https://img.shields.io/github/last-commit/<your-username>/<your-repo>) 
+![GitHub repo size](https://img.shields.io/github/repo-size/hjh59/SAH-GCN) 
 
 
-# SAH-GCN
 ## 🚀 Introduction
 This repository provides the source code for our paper.  
 We propose a **heuristic personality recognition framework** that:  
